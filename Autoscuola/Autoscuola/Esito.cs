@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Autoscuola
 {
-    class Allievo
+    class Esito
     {
-
+        
     }
 }
