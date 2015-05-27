@@ -9,5 +9,7 @@ namespace Autoscuola
     class Istruttore
     {
         private string _nome;
+
+
     }
 }

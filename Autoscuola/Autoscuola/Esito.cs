@@ -8,6 +8,12 @@ namespace Autoscuola
 {
     class Esito
     {
-        
+        public enum Esito
+        {
+            idoneo,
+            non_idoneo,
+            da_sostenere,
+        }
+
     }
 }
